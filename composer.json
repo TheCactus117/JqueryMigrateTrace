@@ -1,0 +1,17 @@
+{
+    "name": "thecactus117/jquery-migrate-trace",
+    "license": "MIT",
+    "type": "magento2-module",
+    "description": "Magento 2 module : Disable jQuery migrate trace",
+    "version": "1.0.0",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "TheCactus117\\CategoryPageOpen\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
